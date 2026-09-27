@@ -1,0 +1,10 @@
+# 本机计划和备份包含项目路径及聊天 ID，请勿上传。
+.local-recovery/
+backups/
+recovery-plan*
+*.sqlite
+*.sqlite-*
+global-state*.json
+.codex-global-state*
+__pycache__/
+*.pyc
